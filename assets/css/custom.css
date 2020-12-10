@@ -1,0 +1,19 @@
+.container{
+
+    background-color:#cccccc;
+    padding: 2%;
+   
+}
+a{
+    color:black;
+}
+.jumbotron{
+    border:2px dashed black;
+    background-color: white;
+}
+.task_body{
+    background-color: white;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 3px 1px;
+}
